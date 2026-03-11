@@ -17,3 +17,12 @@ I love building practical projects and sharing them on LinkedIn.
 - Developer Portfolio Website
 
   🔍 Currently seeking opportunities as a Frontend / Web Developer
+
+## 🛠 Tech Stack
+
+HTML  
+CSS  
+JavaScript  
+Python  
+Git  
+SQL
