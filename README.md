@@ -22,12 +22,12 @@ I enjoy building practical web projects and sharing my development journey on Li
 
 ## 🛠 Tech Stack
 
-HTML  
-CSS  
-JavaScript  
-Python  
-Git  
-SQL
+💻 HTML  
+🎨 CSS  
+⚡ JavaScript  
+🐍 Python  
+🔧 Git & GitHub  
+🗄 SQL
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanepuri&show_icons=true)
