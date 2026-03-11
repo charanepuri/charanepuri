@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=charanepuri)
+
 # Hi 👋 I'm Charan
 
 🎓 B.Tech Graduate  
