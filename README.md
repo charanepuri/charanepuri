@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Charan
 
-<!--
-**charanepuri/charanepuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate  
+💻 Aspiring Web Developer  
+🚀 Passionate about JavaScript & Python Projects  
+🔍 Currently looking for opportunities as a Fresher Developer  
 
-Here are some ideas to get you started:
+I love building practical projects and sharing them on LinkedIn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- JavaScript Practical Projects
+- Bible Reference Web App
+- Deep Translator Web App
+- Developer Portfolio Website
+
+  🔍 Currently seeking opportunities as a Frontend / Web Developer
