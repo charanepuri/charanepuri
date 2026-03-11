@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=charanepuri)
+![](https://komarev.com/ghpvc/?username=charanepuri&color=blue)
 
 # Hi 👋 I'm Charan
 
@@ -19,6 +19,13 @@ I enjoy building practical web projects and sharing my development journey on Li
 - Developer Portfolio Website
 
   🔍 Currently seeking opportunities as a Frontend / Web Developer
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=charanepuri)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 🛠 Tech Stack
 
