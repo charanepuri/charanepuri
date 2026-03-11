@@ -5,9 +5,9 @@
 🎓 B.Tech Graduate  
 💻 Aspiring Web Developer  
 🚀 Passionate about JavaScript & Python Projects  
-🔍 Currently looking for opportunities as a Fresher Developer  
+🔍 Currently seeking opportunities as a Fresher Developer  
 
-I love building practical projects and sharing them on LinkedIn.
+I enjoy building practical web projects and sharing my development journey on LinkedIn.
 
 ---
 
