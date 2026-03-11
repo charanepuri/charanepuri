@@ -46,4 +46,5 @@ SQL
 ## 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/charan-teja-972aa9231
+
 GitHub: https://github.com/charanepuri
