@@ -47,6 +47,9 @@ I enjoy building practical web projects and sharing my development journey on Li
 
 ## 📫 Connect With Me
 
+🌐 Portfolio  
+https://charanepuri.github.io/PORTFOLIO-USING-HTML-CSS-JS/
+
 💼 LinkedIn  
 https://linkedin.com/in/charan-teja-972aa9231
 
