@@ -64,11 +64,12 @@ Java(Basics)
 
 🌐 Portfolio(Django)  
 [Django](https://portfolio-site-django.onrender.com/)
+
 [React](https://charan-react-portfolio.vercel.app/)
 
 
 💼 LinkedIn  
-[Link](https://linkedin.com/in/charan-teja-972aa9231))
+[Link](https://linkedin.com/in/charan-teja-972aa9231)
 
 
 💻 GitHub  
