@@ -31,12 +31,18 @@ I enjoy building practical web projects and sharing my development journey on Li
 
 ## 🛠 Tech Stack
 
+DJANGO
+FLASK
+REACT JS
 💻 HTML  
 🎨 CSS  
 ⚡ JavaScript  
+TAILWIND CSS
+BOOTSTRAP
 🐍 Python  
 🔧 Git & GitHub  
 🗄 SQL
+Java(Basics)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanepuri&show_icons=true)
@@ -56,11 +62,14 @@ I enjoy building practical web projects and sharing my development journey on Li
 
 ## 📫 Connect With Me
 
-🌐 Portfolio  
-https://charanepuri.github.io/PORTFOLIO-USING-HTML-CSS-JS/
+🌐 Portfolio(Django)  
+[Django](https://portfolio-site-django.onrender.com/)
+[React](https://charan-react-portfolio.vercel.app/)
+
 
 💼 LinkedIn  
-https://linkedin.com/in/charan-teja-972aa9231
+[Link](https://linkedin.com/in/charan-teja-972aa9231))
+
 
 💻 GitHub  
-https://github.com/charanepuri
+[Link](https://github.com/charanepuri)
